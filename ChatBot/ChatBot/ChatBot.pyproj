@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>2d8f2614-96ff-45b3-adf6-bcba668b5e0d</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Elementary Project\Elementary Demo01.py</StartupFile>
+    <StartupFile>ChatterBot Demo\Basic Version.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,9 +25,16 @@
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="Elementary Project\" />
+    <Folder Include="ChatterBot Demo\" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChatterBot Demo\Basic Version.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Elementary Project\Elementary Demo01.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Elementary Project\Elementary Demo02.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
