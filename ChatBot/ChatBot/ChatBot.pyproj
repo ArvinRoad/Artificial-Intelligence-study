@@ -37,6 +37,9 @@
     <Compile Include="ChatterBot Demo\Export the corpus to a JSON file.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="ChatterBot Demo\Feedback learning chatbots.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Elementary Project\Elementary Demo01.py">
       <SubType>Code</SubType>
     </Compile>
