@@ -31,13 +31,31 @@
     <Compile Include="ChatterBot Demo\Adapter for handling time and math calculations.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="ChatterBot Demo\An example in Chinese.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="ChatterBot Demo\Basic Version.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ChatterBot Demo\Build chatbots using Ubuntu data sets.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ChatterBot Demo\Email reply chat system.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ChatterBot Demo\Export the corpus to a JSON file.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ChatterBot Demo\Feedback learning chatbots.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ChatterBot Demo\HipChat Adapter is available on the server.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ChatterBot Demo\Take advantage of the small Chinese corpus already provided.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ChatterBot Demo\With Microsoft%27s chatbot.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Elementary Project\Elementary Demo01.py">
